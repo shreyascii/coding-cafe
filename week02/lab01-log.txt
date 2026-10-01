@@ -1,0 +1,16 @@
+  146  man ls
+  147  ls -h
+  148  man ls
+  149  ls
+  150  ls
+  151  ls -h
+  152  ls -lh\n
+  153  man man
+  154  cd cod
+  155  cd ~
+  156  cd coding-cafe/README.md
+  157  cd coding-cafe/week01
+  158  cd ~
+  159  cd coding-cafe
+  160  history
+  161  python3
